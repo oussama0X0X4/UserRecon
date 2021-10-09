@@ -1,7 +1,6 @@
 #!/bin/bash
 # UserRecon v1.0
-# Author: @HackrawiX
-# https://github.com/X-HACKRAWI
+# OUSSAMA 0X0X4
 # Give me the credits if you use any part of this code, read the License.
 clear
 trap 'printf "\n";partial;exit 1' 2
@@ -10,16 +9,13 @@ banner() {
 
 
 
-printf "                                                   \e[1;92m.-\"\"\"\"-. \e[0m\n"
-printf "                                                  \e[1;92m/        \ \e[0m\n"
-printf "\e[1;77m  _   _               ____                       \e[0m\e[1;92m/_        _\ \e[0m\n"
-printf "\e[1;77m | | | |___  ___ _ __|  _ \ ___  ___ ___  _ __  \e[0m\e[1;92m// \      / \\ \e[0m\n"
-printf "\e[1;77m | | | / __|/ _ \ '__| |_) / _ \/ __/ _ \| '_ \ \e[0m\e[1;92m|\__\    /__/| \e[0m\n"
-printf "\e[1;77m | |_| \__ \  __/ |  |  _ <  __/ (_| (_) | | | | \e[0m\e[1;92m\    ||    / \e[0m\n"
-printf "\e[1;77m  \___/|___/\___|_|  |_| \_\___|\___\___/|_| |_|  \e[0m\e[1;92m\        / \e[0m\n"
-printf "                   \e[1;92mv1.0, Author: @HackrawiX  \e[0m   \e[1;92m\  __  / \e[0m\n"
-printf "                                                    \e[1;92m'.__.' \e[0m\n"
-                                                
+     _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _      
+    |                                           |               
+    |  [+]       OUSSAMA 0X0X4         [+]      |
+    |
+    |  [+]       DARK 0X SHADOW        [+]       |
+    |  [+]      +212767428009          [+]
+    |_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _|
 
 
 }
